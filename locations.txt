@@ -1,0 +1,6 @@
+-25.4255773,-49.2681186___Passeio Público, Curitiba-PR
+40.4226106,-3.7009950___Lugar aleatório em Madri - Espanha
+35.7030441,139.7345682___Lugar aleatório em Tóquio - Japão
+-33.9310870,18.4456673___Lugar aleatório na Cidade do Cabo - África do Sul
+-41.2943551,174.7806466___Lugar aleatório em Wellington - Nova Zelândia
+45.4147190,-75.7002590___Lugar aleatório em Ottawa - Canadá
